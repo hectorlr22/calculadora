@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Calculadora
+GenericName=Calculadora
+Comment=Realiza cálculos básicos
+Categories=Utility;
+Exec=com.github.hectorlr22.calculadora
+Icon=application-default-icon
+Terminal=false
+Type=Application
+Keywords=Calculadora;Calcular;Suma;Resta;Multiplicar;Dividir;
